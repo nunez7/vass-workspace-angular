@@ -3,5 +3,8 @@
   "dest": "../../dist/vass-side-menu",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "allowedNonPeerDependencies": [
+    "vass-side-menu"
+  ]
 }
