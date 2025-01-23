@@ -1,3 +1,8 @@
 <h1 class="text-3xl font-bold underline">Hola mundo</h1>
 
-<lib-vass-side-menu />
+<lib-vass-side-menu 
+[isAuthenticated]="isAuthenticated()" 
+(signIn)="isAuthenticated.set(true)"
+(signOut)="isAuthenticated.set(false)"
+[titleColor]="TitleColor.blue"
+/>
