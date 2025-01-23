@@ -1,0 +1,141 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.3.5",
+  "deps": {
+    "@angular-eslint/schematics": "^17.3.0",
+    "@angular/animations": "^17.3.0",
+    "@angular/common": "^17.3.0",
+    "@angular/compiler": "^17.3.0",
+    "@angular/core": "^17.3.0",
+    "@angular/forms": "^17.3.0",
+    "@angular/platform-browser": "^17.3.0",
+    "@angular/platform-browser-dynamic": "^17.3.0",
+    "@angular/router": "^17.3.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "vass-workspace": "file:",
+    "zone.js": "~0.14.3",
+    "@angular-devkit/build-angular": "^17.3.11",
+    "@angular/cli": "^17.3.11",
+    "@angular/compiler-cli": "^17.3.0",
+    "@types/jasmine": "~5.1.0",
+    "angular-eslint": "19.0.2",
+    "eslint": "^9.16.0",
+    "jasmine-core": "~5.1.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "ng-packagr": "^17.3.0",
+    "typescript": "~5.4.2",
+    "typescript-eslint": "8.18.0"
+  },
+  "pathMappings": {
+    "vass-side-menu": [
+      "./dist/vass-side-menu"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "17241496168097493888"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "10175894702052279752"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "11934160580685414355"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "17406702432687230417"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "10093397977228577162"
+      },
+      {
+        "file": "README.md",
+        "hash": "11469694514331368528"
+      },
+      {
+        "file": "angular.json",
+        "hash": "11631715131349062799"
+      },
+      {
+        "file": "eslint.config.js",
+        "hash": "8667918597659273397"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "8964828662950416318"
+      },
+      {
+        "file": "package.json",
+        "hash": "4256011602982533163"
+      },
+      {
+        "file": "projects/vass-side-menu/README.md",
+        "hash": "18077364328039695051"
+      },
+      {
+        "file": "projects/vass-side-menu/eslint.config.js",
+        "hash": "12873688353560717298"
+      },
+      {
+        "file": "projects/vass-side-menu/ng-package.json",
+        "hash": "4863923014693778133"
+      },
+      {
+        "file": "projects/vass-side-menu/package-lock.json",
+        "hash": "14462199881966277557"
+      },
+      {
+        "file": "projects/vass-side-menu/package.json",
+        "hash": "1740964959687911105"
+      },
+      {
+        "file": "projects/vass-side-menu/src/lib/vass-side-menu.component.spec.ts",
+        "hash": "6182034764349728320"
+      },
+      {
+        "file": "projects/vass-side-menu/src/lib/vass-side-menu.component.ts",
+        "hash": "2728719604459583503"
+      },
+      {
+        "file": "projects/vass-side-menu/src/lib/vass-side-menu.service.spec.ts",
+        "hash": "18225392899550153807"
+      },
+      {
+        "file": "projects/vass-side-menu/src/lib/vass-side-menu.service.ts",
+        "hash": "5299881673909439061"
+      },
+      {
+        "file": "projects/vass-side-menu/src/public-api.ts",
+        "hash": "1529927310243854248"
+      },
+      {
+        "file": "projects/vass-side-menu/tsconfig.lib.json",
+        "hash": "3854248313799891276"
+      },
+      {
+        "file": "projects/vass-side-menu/tsconfig.lib.prod.json",
+        "hash": "6958467553555132988"
+      },
+      {
+        "file": "projects/vass-side-menu/tsconfig.spec.json",
+        "hash": "6187331034101419811"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "780806836220106275"
+      }
+    ]
+  }
+}
