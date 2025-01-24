@@ -20,9 +20,9 @@ export class VassSideMenuComponent {
   isAuthenticated = input(false);
   titleColor = input<TitleColor>(TitleColor.blue);
 
+  title = input('VASS');
+  subTitle = input('LATAM');
+
   signOut = output();
   signIn = output();
-
-
-
 }
