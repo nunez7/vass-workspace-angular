@@ -1,6 +1,22 @@
 {
   "name": "vass-side-menu",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nunez7/vass-workspace-angular"
+  },
+  "keywords": [
+    "angular",
+    "side-menu",
+    "apx",
+    "do-not-use"
+  ],
+  "author": "Felix Nuñez",
+  "bugs": {
+    "url": "https://github.com/nunez7/vass-workspace-angular/issues"
+  },
+  "homepage": "https://felix-nunez.com",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^17.3.0",
     "@angular/core": "^17.3.0"

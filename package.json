@@ -11,7 +11,7 @@
     "vass-side-menu:build": "ng build vass-side-menu",
     "vass-side-menu:lint": "ng lint vass-side-menu",
     "vass-side-menu:test": "ng test vass-side-menu --no-watch --no-progress --browsers=ChromeHeadless",
-    "vass-side-menu:publish": "npm run vass-side-menu:test && vass-side-menu:build && npm publish dist/vass-side-menu"
+    "vass-side-menu:publish": "npm run vass-side-menu:test && npm run vass-side-menu:build && npm publish dist/vass-side-menu/"
   },
   "private": true,
   "dependencies": {
